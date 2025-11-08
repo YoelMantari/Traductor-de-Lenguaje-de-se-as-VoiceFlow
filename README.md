@@ -1,6 +1,6 @@
-# Guía de API de Voiceflow - Implementación en Python
+# Traductor de Señaz - Uso de Api de VoiceFlow
 
-Este proyecto te muestra cómo usar las APIs de Voiceflow para crear un chatbot en Python. Puedes chatear directamente con tu agente de Voiceflow desde la consola.
+Este proyecto muestra cómo usar las APIs de Voiceflow para crear un chatbot para sugerencia, registrar y atender a usuario no oyente. Puedes chatear directamente con tu agente de Voiceflow desde la consola.
 
 ## Cómo empezar (3 pasos simples)
 
